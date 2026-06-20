@@ -1,5 +1,0 @@
-FROM ubuntu
-
-COPY . .
-
-#comment
